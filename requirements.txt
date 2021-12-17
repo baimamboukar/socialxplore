@@ -67,7 +67,6 @@ simplejson>=3.16.0
 six>=1.15.0
 soupsieve>=2.0
 systemd-python>=234
-toml>=0.10.1
 unattended-upgrades>=0.1
 urllib3>=1.26.7
 usb-creator>=0.3.7
