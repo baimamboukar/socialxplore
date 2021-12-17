@@ -4,7 +4,7 @@ autopep8==1.6.0
 bcrypt==3.1.7
 beautifulsoup4==4.8.2
 blinker==1.4
-Brlapi==0.7.0
+Brlapi
 certifi==2019.11.28
 chardet==3.0.4
 chrome-gnome-shell==0.0.0
